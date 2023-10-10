@@ -1,4 +1,4 @@
-# Exemplo de deploy de modelo de ML com Streamlit
+# Deploy de modelo de ML com Streamlit <a href='https://github.com/brunomontezano/exemplo-streamlit/'><img src='figuras/imagem_lirio.jpg' align="right" height="139" /></a>
 
 Nesse repositório, temos três arquivos principais:
 
