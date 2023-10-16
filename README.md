@@ -15,3 +15,7 @@ Esse material foi preparado para um grupo de estudos
 sobre aprendizado de máquina e saúde mental, constituído
 primariamente por alunos de pós-graduação de cursos
 da saúde.
+
+O código foi inspirado no código de exemplo do usuário
+`santiviquez` no GitHub. Você pode acessar o código original
+completo em [santiviquez/iris-streamlit](https://github.com/santiviquez/iris-streamlit).
